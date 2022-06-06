@@ -1,0 +1,11 @@
+.maindiv{
+    height: max-content;
+    width: 70%;
+    margin: auto;
+    display:  grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 15px;
+    padding: 15px;
+    margin-top: 50px;
+}
